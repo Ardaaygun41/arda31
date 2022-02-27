@@ -1,0 +1,25 @@
+{
+  "name": "kaos",
+  "version": "0.0.1",
+  "description": "Serendia Squad'tan Alosha tarafından yapılan package.",
+  "main": "kaos.js",
+  "scripts": {
+    "start": "node kaos.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "parse-ms": "^3.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Serendia",
+    "Squad",
+    "Serendia Squad",
+    "Alosha"
+  ]
+}
